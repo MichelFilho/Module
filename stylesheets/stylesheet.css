@@ -18,16 +18,16 @@ h2 {
   margin-bottom: 0;
   border: 1px solid black;
 }
-h2.frango{
-  background-color: #FF0000;
+h2.chicken{
+  background-color: #FF1111;
   color:white;
 }
-h2.carne{
-  background-color: #00FF00;
+h2.beef{
+  background-color: #11FF11;
   color:white;
 }
 h2.sushi{
-  background-color: #0000FF;
+  background-color: #1111FF;
   color:white;
 }
 section {
